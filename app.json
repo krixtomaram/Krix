@@ -1,5 +1,5 @@
 {
-  "name": "hermit-md",
+  "name": "VENOMOUS",
   "description": " Whatsapp bot.",
   "keywords": [
     "whatsapp bot"
@@ -48,17 +48,17 @@
     "BOT_INFO": {
       "description": "botname;ownername;ownernumber;image url",
       "required": true,
-      "value": "ʜᴇʀᴍɪᴛ;ᴀᴅɪᴛʜyᴀɴ;972528277755;https://i.imgur.com/pbNNWfM.jpeg"
+      "value": "LYGOPHILE;KRIXTOM;919365354223;https://i.imgur.com/DHcq6Qk.jpeg"
     },
     "STICKER_DATA": {
       "description": "sticker package name",
       "required": true,
-      "value": "ʜᴇʀᴍɪᴛ;ᴀᴅɪᴛʜyᴀɴ"
+      "value": "LYGOPHILE💋;KRIXTOM"
     },
     "AUDIO_DATA": {
       "description": "audio package name",
       "required": true,
-      "value": "ʜᴇʀᴍɪᴛ;ᴀᴅɪᴛʜyᴀɴ;https://i.imgur.com/pbNNWfM.jpeg"
+      "value": "LYGOPHILE;KRIXTOM;https://i.imgur.com/DHcq6Qk.jpeg"
     },
     "READ_MSG": {
       "description": "Read all messages",
@@ -83,7 +83,7 @@
     "SONG_THUMBNAIL": {
       "description": "show youtube video thumbnail in song cmd",
       "required": false,
-      "value": "false"
+      "value": "LYGOPHILE;KRIXTOM"
     },
     "ERROR_MESSAGE": {
       "description": "get error alert",
